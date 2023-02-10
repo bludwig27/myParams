@@ -1,0 +1,15 @@
+C:\Users\bludw\source\repos\myParams\myParams\bin\Debug\net6.0\myParams.exe
+C:\Users\bludw\source\repos\myParams\myParams\bin\Debug\net6.0\myParams.deps.json
+C:\Users\bludw\source\repos\myParams\myParams\bin\Debug\net6.0\myParams.runtimeconfig.json
+C:\Users\bludw\source\repos\myParams\myParams\bin\Debug\net6.0\myParams.dll
+C:\Users\bludw\source\repos\myParams\myParams\bin\Debug\net6.0\myParams.pdb
+C:\Users\bludw\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.csproj.AssemblyReference.cache
+C:\Users\bludw\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.AssemblyInfoInputs.cache
+C:\Users\bludw\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.AssemblyInfo.cs
+C:\Users\bludw\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.csproj.CoreCompileInputs.cache
+C:\Users\bludw\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.dll
+C:\Users\bludw\source\repos\myParams\myParams\obj\Debug\net6.0\refint\myParams.dll
+C:\Users\bludw\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.pdb
+C:\Users\bludw\source\repos\myParams\myParams\obj\Debug\net6.0\myParams.genruntimeconfig.cache
+C:\Users\bludw\source\repos\myParams\myParams\obj\Debug\net6.0\ref\myParams.dll
